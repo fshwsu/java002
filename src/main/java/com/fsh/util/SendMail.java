@@ -3,6 +3,12 @@ package com.fsh.util;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSenderImpl;
+/**
+ * ≤‚ ‘java≥Ã–Ú
+ * 
+ * 
+ */
+
 
 public class SendMail {
 
